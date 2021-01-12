@@ -63,8 +63,6 @@
             </div>
         </td>
     </tr>
-</table>  
-<table>
     <tr>
         <td valign="top" width="33%">
             ### Mobile App Development  
@@ -97,8 +95,6 @@
             </div>
         </td>
     </tr>
-</table>
-<table>
     <tr>
         <td valign="top" width="33%">
             ### Data Visualization
@@ -129,8 +125,6 @@
             </div>
         </td>
     </tr>
-</table>
-<table>
     <tr>
         <td valign="top" width="33%">
             ### Framework  
