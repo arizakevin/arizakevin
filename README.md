@@ -193,6 +193,8 @@
 
 <div align="center">
     <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevwas&show_icons=true&locale=en&layout=compact" alt="kevwas" />
+    <br/> 
     <img align="middle" width="50%" src="https://github-readme-stats.vercel.app/api?username=kevwas&show_icons=true&locale=en" alt="kevwas" />
+    <br/> 
     <img align="bottom" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevwas&" alt="kevwas" />
 </div>
