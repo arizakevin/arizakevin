@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Django, AI, Machine Learning and Data Science**
 
-- 👨‍💻 All of my recent projects are available at [arizakevin.web.app](arizakevin.web.app)
+- 👨‍💻 All of my recent projects are available at [arizakevin.web.app](https://arizakevin.web.app/)
 
 - 💬 Ask me about **Web and mobile development**
 
