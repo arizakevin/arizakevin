@@ -12,7 +12,7 @@
 </div>
 <br/> 
 
-- 🔭 I’m currently working on [PagoLinea: A payments processor app](https://play.google.com/store/apps/details?id=com.pagolineaapp&hl=es_419)
+- 🔭 I’m currently working on [Blankfactor](https://blankfactor.com/) as a Full-Stack Developer, and I also developed and maintain the [PagoLinea: A payments processor app](https://play.google.com/store/apps/details?id=com.pagolineaapp&hl=es_419)
 
 - 🌱 I’m currently learning **Django, AI, Machine Learning and Data Science**
 
