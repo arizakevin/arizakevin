@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Blankfactor](https://blankfactor.com/) as a Full-Stack Developer, and I also developed and maintain the [PagoLinea: A payments processor app](https://play.google.com/store/apps/details?id=com.pagolineaapp&hl=es_419)
 
-- 🌱 I’m currently learning **Django, AI, Machine Learning and Data Science**
+- 🌱 I’m currently learning **AI, Machine Learning and Data Science**
 
 - 👨‍💻 All of my recent projects are available at [arizakevin.web.app](https://arizakevin.web.app/)
 
