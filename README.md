@@ -12,7 +12,7 @@
 </div>
 <br/> 
 
-- 🔭 I’m currently working as a Freelance Full-Stack Developer, I developed and maintain the [PagoLinea: A payments processor app](https://play.google.com/store/apps/details?id=com.pagolineaapp&hl=es_419)
+- 🔭 I’m currently working as a Freelance Full-Stack Developer
 
 - 🌱 I’m currently learning **AI, Machine Learning and Data Science**
 
