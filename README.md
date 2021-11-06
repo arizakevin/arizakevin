@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working as a Freelance Full-Stack Developer
 
-- 🌱 I’m currently learning **AI, Machine Learning and Data Science**
+- 🌱 I’m currently learning about **AI** and pulishing my web development skills
 
 - 👨‍💻 All of my recent projects are available at [arizakevin.web.app](https://arizakevin.web.app/)
 
