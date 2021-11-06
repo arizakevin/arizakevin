@@ -74,7 +74,7 @@
 ### Mobile App Development  
 <div align="center">  
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://ionicframework.com/" target="_blank"> <img src="https://en.wikipedia.org/wiki/Ionic_(mobile_app_framework)#/media/File:Ionic-logo-landscape.svg" alt="Ionic Framework Logo" width="40" height="40"/> </a> 
+<a href="https://ionicframework.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic Framework Logo" width="40" height="40"/> </a> 
 </div>
 
 </td><td valign="top" width="33%">
