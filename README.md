@@ -168,7 +168,7 @@
 ## Github Stats  
 
 <div align="center">
-    <img align="top" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevwas&show_icons=true&locale=en&layout=compact" alt="kevwas" />
+    <img align="top" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevwas&hide=html,python,css,scss,starlark&layout=compact" alt="kevwas" />
     <br/><br/>  
     <img align="middle" width="70%" src="https://github-readme-stats.vercel.app/api?username=kevwas&show_icons=true&locale=en" alt="kevwas" />
     <br/><br/>  
