@@ -14,10 +14,10 @@
 
 - 🔭 I’m currently working as a Freelance Full-Stack Developer
 
-- 🌱 I’m currently learning about **AI** and pulishing my web development skills
-
+- 🌱 I’m currently focused in pulishing my web development skills
+<!--
 - 👨‍💻 All of my recent projects are available at [arizakevin.web.app](https://arizakevin.web.app/)
-
+-->
 - 💬 Ask me about **Web and mobile development**
 
 - 📫 How to reach me **arizakevin.dev@gmail.com**
