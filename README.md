@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **arizakevin.dev@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/39zlmxdvm36h6nt/Developer%20CV%20EN.pdf?dl=0](shorturl.at/gmrHO)
+- 📄 Know about my experiences [shorturl.at/gmrHO](shorturl.at/gmrHO)
 
 
 ## My Skill Set  
