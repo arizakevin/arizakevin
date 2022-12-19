@@ -12,7 +12,7 @@
 </div>
 <br/> 
 
-- 🔭 I’m currently working as a Freelance Full-Stack Developer
+- 🔭 I’m currently working as a Full-Stack Engineer at [Buildertrend]([https://arizakevin.web.app/](https://buildertrend.com/))
 
 - 🌱 I’m currently focused in pulishing my web development skills
 <!--
