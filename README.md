@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Software Engineer, driven by curiosity and love for learning new things.</h3>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=kevwas&label=Profile%20views&color=0e75b6&style=flat" alt="kevwas" />
+    <img src="https://komarev.com/ghpvc/?username=arizakevin&label=Profile%20views&color=0e75b6&style=flat" alt="arizakevin" />
 </div>  
 <br/> 
 <div align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kevwas" alt="kevwas" />
+        <img src="https://github-profile-trophy.vercel.app/?username=arizakevin" alt="arizakevin" />
     </a> 
 </div>
 <br/> 
