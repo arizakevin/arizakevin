@@ -155,7 +155,7 @@
 ## Connect with me  
 
 <div align="center">
-    <a href="https://github.com/kevwas" target="_blank">
+    <a href="https://github.com/arizakevin" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <a href="https://linkedin.com/in/kevin-ariza" target="_blank">
@@ -168,9 +168,9 @@
 ## Github Stats  
 
 <div align="center">
-    <img align="top" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevwas&hide=html,python,css,scss,starlark,objective-c&layout=compact" alt="kevwas" />
+    <img align="top" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arizakevin&hide=html,python,css,scss,starlark,objective-c&layout=compact" alt="arizakevin" />
     <br/><br/>  
-    <img align="middle" width="70%" src="https://github-readme-stats.vercel.app/api?username=kevwas&show_icons=true&locale=en" alt="kevwas" />
+    <img align="middle" width="70%" src="https://github-readme-stats.vercel.app/api?username=arizakevin&show_icons=true&locale=en" alt="arizakevin" />
     <br/><br/>  
-    <img align="bottom" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevwas&" alt="kevwas" />
+    <img align="bottom" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arizakevin&" alt="arizakevin" />
 </div>
