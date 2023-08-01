@@ -75,7 +75,8 @@
 
 
 ### Mobile App Development  
-<div align="center">  
+<div align="center">
+<a style="margin-top: -30px" href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="reactnative" width="40" height="40"/> </a> 
 <a style="margin-top: -30px" href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://ionicframework.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic Framework Logo" width="80" height="40"/> </a> 
 </div>
