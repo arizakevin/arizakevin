@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working as a Full-Stack Engineer at [Buildertrend]([https://arizakevin.web.app/](https://buildertrend.com/))
 
-- 🌱 I’m currently focused in pulishing my web development skills
+- 🌱 I’m currently focused in pulishing my web development skills and learning iOS native development with Swift and SwiftUI
 <!--
 - 👨‍💻 All of my recent projects are available at [arizakevin.web.app](https://arizakevin.web.app/)
 -->
