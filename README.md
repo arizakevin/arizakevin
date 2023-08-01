@@ -61,9 +61,9 @@
 
 ### Backend  
 <div align="center">  
-<a style="padding-rigth: 60px" href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="70"/> </a> 
+<a style="padding-rigth: 80px" href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="70"/> </a> 
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" height="70"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="django" height="50""/> </a> 
+<a  style="margin-top: -20px" href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="django" height="50""/> </a> 
 <!--
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" height="50"/> </a> 
 -->
