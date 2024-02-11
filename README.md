@@ -34,7 +34,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://elixir-lang.org/" target="_blank"> <img src="https://elixir-lang.org/images/logo/logo.png" alt="elixir" width="40" height="40"/> </a> 
+<a href="https://elixir-lang.org/" target="_blank"> <img src=https://user-images.githubusercontent.com/39904003/146365575-c658ac00-c0e8-42aa-8341-78c7bd5d6678.png" alt="elixir" width="40" height="40"/> </a> 
 </div>
 
 </td><td valign="top" width="33%">
