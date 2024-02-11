@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Ariza</h1>
-<h3 align="center">A passionate Software Engineer, driven by curiosity and love for learning new things.</h3>
+<h3 align="center">A passionate Full Stack Engineer, driven by curiosity and love for learning new things.</h3>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=arizakevin&label=Profile%20views&color=0e75b6&style=flat" alt="arizakevin" />
@@ -12,11 +12,11 @@
 </div>
 <br/> 
 
-- 🔭 I’m currently working as a Full-Stack Engineer at [Buildertrend]([https://arizakevin.web.app/](https://buildertrend.com/))
+- 🔭 I’m currently working as a Senior Full-Stack Engineer at [Islands](https://www.islandshq.xyz/)
 
-- 🌱 I’m currently focused in pulishing my web development skills and learning iOS native development with Swift and SwiftUI
+- 🌱 I’m currently focused in pulishing my web development skills and learning Elixir and Phoenix 🐦
 <!--
-- 👨‍💻 All of my recent projects are available at [arizakevin.web.app](https://arizakevin.web.app/)
+- 👨‍💻 All of my recent projects are available at [kevinariza.com](https://www.kevinariza.com/)
 -->
 - 💬 Ask me about **Web and mobile development**
 
