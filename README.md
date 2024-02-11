@@ -15,14 +15,12 @@
 - 🔭 I’m currently working as a Senior Full-Stack Engineer at [Islands](https://www.islandshq.xyz/)
 
 - 🌱 I’m currently focused in pulishing my web development skills and learning Elixir and Phoenix 🐦
-<!--
-- 👨‍💻 All of my recent projects are available at [kevinariza.com](https://www.kevinariza.com/)
--->
+
 - 💬 Ask me about **Web and mobile development**
 
 - 📫 How to reach me **arizakevin.dev@gmail.com**
 
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1h8MD7ZnvZzGVPP5J1azvqsUQrHfMkvqv/view)
+- 👨‍💻 Know about my experiences at [kevinariza.com](https://www.kevinariza.com/)
 
 
 ## My Skill Set  
