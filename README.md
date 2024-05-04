@@ -13,8 +13,9 @@
 <br/> 
 
 - 🔭 I’m currently working as a Senior Full-Stack Engineer at [Islands](https://www.islandshq.xyz/)
-
+<!--
 - 🌱 I’m currently focused in pulishing my web development skills and learning Elixir and Phoenix 🐦
+-->
 
 - 💬 Ask me about **Web and mobile development**
 
