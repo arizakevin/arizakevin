@@ -27,6 +27,4 @@
     <img align="top" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arizakevin&hide=html,python,css,scss,starlark,objective-c&layout=compact" alt="arizakevin" />
     <br/><br/>  
     <img align="middle" width="70%" src="https://github-readme-stats.vercel.app/api?username=arizakevin&show_icons=true&locale=en" alt="arizakevin" />
-    <br/><br/>  
-    <img align="bottom" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arizakevin&" alt="arizakevin" />
 </div>
