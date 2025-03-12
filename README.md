@@ -12,9 +12,9 @@
 </div>
 <br/> 
 
-- 🔭 Currently building **SynterAI**, a cutting-edge SaaS platform that transforms YouTube comments into actionable insights. [Learn more](https://synterai.com) 🌟  
+- 🔭 Currently building [**SynterAI**](https://synterai.com) and [**SpellReach**](https://spellreach.com). 
 - 🌱 Focused on scaling **Chelone Labs**, my brand for developing innovative SaaS solutions.  
-- 💬 Ask me about **Web Development, SaaS, and Data Analysis**  
+- 💬 Ask me about **Web & Mobile Development, SaaS, Data Analysis and Video Games**  
 - 📫 How to reach me: **arizakevin.dev@gmail.com**  
 - 👨‍💻 Know more about me at [kevinariza.com](https://www.kevinariza.com/)  
 
