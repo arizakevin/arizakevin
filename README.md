@@ -12,11 +12,11 @@
 </div>
 <br/> 
 
-- 🔭 Currently building [**SynterAI**](https://synterai.com) and [**SpellReach**](https://spellreach.com). 
+- 🔭 Currently building [**Pyneer.dev**](https://pyneer.dev), [**Flor.kids**](https://flor.kids), [**SynterAI**](https://synterai.vercel.app) and [**SpellReach**](https://spellreach.com). 
 - 🌱 Focused on scaling **Chelone Labs**, my brand for developing innovative SaaS solutions.  
 - 💬 Ask me about **Web & Mobile Development, SaaS, Data Analysis and Video Games**  
 - 📫 How to reach me: **arizakevin.dev@gmail.com**  
-- 👨‍💻 Know more about me at [kevinariza.com](https://www.kevinariza.com/)  
+- 👨‍💻 Know more about me at [kevinariza.info](https://www.kevinariza.info/)  
 
 ---
 <br/>
