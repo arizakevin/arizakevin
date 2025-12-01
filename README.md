@@ -18,5 +18,3 @@
 - 📫 How to reach me: **arizakevin.dev@gmail.com**  
 - 👨‍💻 Know more about me at [kevinariza.info](https://www.kevinariza.info/)  
 
----
-<br/>
