@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Ariza</h1>
-<h3 align="center">A passionate Full Stack Engineer, entrepreneur, and tech enthusiast exploring innovative SaaS solutions.</h3>
+<h3 align="center">Software engineer and indie maker building fun and useful AI tools, games, and experimental projects. Always exploring, learning and creating!</h3>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=arizakevin&label=Profile%20views&color=0e75b6&style=flat" alt="arizakevin" />
